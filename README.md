@@ -3,7 +3,7 @@ Real time eye tracking using OpenCV and haarcascades
 
 # Objective 
 
---> This project uses Open CV cascading classifiers and established databases to detect face and eye. 
+--> This project uses OpenCV cascading classifiers and established databases to detect face and eye. 
 
 --> It will intentionally track the gaze of only one face. 
 
