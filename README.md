@@ -19,7 +19,7 @@ Real time eye tracking using OpenCV and haarcascades
 
 - [x] The second step is to classify, you need a classifer. There are haarcascades available face ('haarcascade_frontalface_default.xml') and eye ('haarcascade_eye.xml') stickers that come with the OpenCV library, and you can download them from the [official github repository](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
-3- The third step is to run code from this command:
+- [x] The third step is to run code from this command:
 
     python Gaze Tracking.py
 
